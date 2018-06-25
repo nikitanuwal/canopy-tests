@@ -8,7 +8,7 @@ Precondition:
 * Docker is installed in your machine
 
 To execute project using maven, run following command:<br/><br/>
-mvn test -Psurefire -Dtestng-suite-xml=testng-customsuite.xml -Denv=DEV -DbuildName=dev-latest-tag-3<br/><br/>
+mvn test -Psurefire -Dtestng-suite-xml=testng-customsuite.xml -Denv=DEV -DbuildName=dev-latest-tag-3
 
 Precondition:
 * Make sure you have chrome and maven is installed in your machine
