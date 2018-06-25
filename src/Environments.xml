@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENV>
+	<DEV>
+		<VER_JUNE_2018>
+            <APP_URL>https://dev-engine.kurtosys.org</APP_URL>
+            <USERNAME>at_006</USERNAME>
+            <PASSWORD>TechGeek12!</PASSWORD>
+        </VER_JUNE_2018>
+    </DEV>
+</ENV>
